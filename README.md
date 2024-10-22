@@ -17,7 +17,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleandroRodrigzz&show_icons=true&bg_color=272822&title_color=a6e22e&text_color=f8f8f2&icon_color=66d9ef&border_color=f92672)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleandroRodrigzz&layout=compact&bg_color=272822&title_color=a6e22e&text_color=f8f8f2&icon_color=66d9ef&border_color=f92672)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleandroRodrigzz&layout=donut&bg_color=272822&title_color=a6e22e&text_color=f8f8f2&icon_color=66d9ef&border_color=f92672)
 
 ## Desktop Config 🖥️
 [![Ryzen](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=red)]()
