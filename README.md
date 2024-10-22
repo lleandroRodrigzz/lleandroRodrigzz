@@ -27,4 +27,4 @@
 [![Nvidia](https://img.shields.io/badge/NVIDIA-RTX_2060_SUPER-76B901?style=for-the-badge&logo=nvidia&logoColor=green)]()
 [![Notebook](https://img.shields.io/badge/Windows-VAIO_FE15_Intel_Core_i5-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
-Hi There!, i am Leandro Rodrigues, I am a computer science student in Presidente Prudente - São Paulo - Brazil, located in Unoeste(FIPP)
+Hi There!, i am Leandro Rodrigues, I am a computer science student in Presidente Prudente - São Paulo - Brazil, located in Unoeste(FIPP).
