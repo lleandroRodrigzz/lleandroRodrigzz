@@ -15,6 +15,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleandroRodrigzz&show_icons=true&theme=merko)
 
 ## SO's
