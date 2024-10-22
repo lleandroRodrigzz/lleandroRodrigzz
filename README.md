@@ -18,13 +18,11 @@
 
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleandroRodrigzz&show_icons=true&theme=merko)
 
-## SO's
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
-
 ## Desktop Config
 [![Ryzen](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=red)]()
 [![Nvidia](https://img.shields.io/badge/NVIDIA-RTX_2060_SUPER-76B901?style=for-the-badge&logo=nvidia&logoColor=green)]()
 [![Notebook](https://img.shields.io/badge/Windows-VAIO_FE15_Intel_Core_i5-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
 
 Hi There!, i am Leandro Rodrigues, I am a computer science student in Presidente Prudente - São Paulo - Brazil, located in Unoeste(FIPP).
