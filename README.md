@@ -17,6 +17,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleandroRodrigzz&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleandroRodrigzz&layout=compact)
 
 ## Desktop Config
 [![Ryzen](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=red)]()
