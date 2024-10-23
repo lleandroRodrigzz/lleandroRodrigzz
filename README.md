@@ -3,7 +3,7 @@
 ## Social Medias 🤳
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lleandro.rodrigzz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lleandroRodrigzz)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lleandro_rodrigzz)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=salmon)](https://www.tiktok.com/@lleandro_rodrigzz)
 
 ## Skills 🧑‍💻
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
@@ -23,7 +23,7 @@
 [![Ryzen](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=red)]()
 [![Nvidia](https://img.shields.io/badge/NVIDIA-RTX_2060_SUPER-76B901?style=for-the-badge&logo=nvidia&logoColor=green)]()
 [![Notebook](https://img.shields.io/badge/Windows-VAIO_FE15_Intel_Core_i5-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
 Hi There!, i am Leandro Rodrigues, I am a computer science student in Presidente Prudente - São Paulo - Brazil, located in Unoeste(FIPP).
