@@ -1,9 +1,9 @@
 ## Hi, My name is Leandro Rodrigues 👋
 
 ## Social Medias 🤳
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lleandro_rodrigzz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lleandro.rodrigzz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lleandroRodrigzz)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=salmon)](https://www.tiktok.com/@lleandro_rodrigzz)
 
 ## Skills 🧑‍💻
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
