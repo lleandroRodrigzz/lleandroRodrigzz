@@ -1,6 +1,6 @@
 ## Hi, My name is Leandro Rodrigues and this is my GitHub profile! 👋
 
-### Social Medias 🤳
+### You can find me at 🤳: 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=69C9D0)](https://www.tiktok.com/@lleandro_rodrigzz)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=EE1D52)](https://www.instagram.com/lleandro.rodrigzz/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:leandromarcoscasse@gmail.com)
@@ -9,7 +9,7 @@
 
 ##
 
-### Skills 🧑‍💻
+### Skills I'm learning 🧑‍💻: 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
