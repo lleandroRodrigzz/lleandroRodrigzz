@@ -1,9 +1,10 @@
 ## Hi, My name is Leandro Rodrigues and this is my GitHub profile! 👋
 
 ### Social Medias 🤳
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lleandro_rodrigzz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lleandro.rodrigzz/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lleandroRodrigzz)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=69C9D0)](https://www.tiktok.com/@lleandro_rodrigzz)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=EE1D52)](https://www.instagram.com/lleandro.rodrigzz/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:leandromarcoscasse@gmail.com)
+
 
 ##
 
