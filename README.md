@@ -6,6 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:leandromarcoscasse@gmail.com)
 
 
+
 ##
 
 ### Skills 🧑‍💻
