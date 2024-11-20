@@ -1,4 +1,4 @@
-## Hi, My name is Leandro Rodrigues and this is my GitHub profile! 👋
+# Hi, My name is Leandro Rodrigues! 👋
 
 ### You can find me at 🤳: 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=69C9D0)](https://www.tiktok.com/@lleandro_rodrigzz)
