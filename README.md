@@ -11,6 +11,7 @@
 
 ### Skills I'm learning 🧑‍💻: 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![SpringBoot](https://img.shields.io/badge/Spring_Boot-43853D?style=for-the-badge&logo=spring&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Pythom](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
