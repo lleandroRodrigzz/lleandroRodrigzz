@@ -94,7 +94,7 @@ Currently pursuing Computer Science at **Unoeste (FIPP)** in Presidente Prudente
 
 <div align="center">
 
-### 💡 "Learning never exhausts the mind" - Leonardo da Vinci
+### 💡 "The only way to do great work is to love what you do." - Steve Jobs
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lleandroRodrigzz&color=03fcb1&style=for-the-badge&label=Profile+Views)
 
